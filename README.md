@@ -1,6 +1,6 @@
 🚗 US Accidents Analysis – EDA & ML Project
 A comprehensive data science project that explores and models over 4 million real-world traffic accidents across the United States. This project includes exploratory data analysis (EDA) and a machine learning pipeline to predict accident severity, uncover insights, and build a publish-ready portfolio project.
-
+-------------------------------------------------------------------------------------------
 📂 Project Overview
 Section	Description
 📊 EDA	Identify trends by time, location, weather, and more
@@ -15,7 +15,7 @@ Section	Description
 🧾 Rows: 4.2 Million+
 
 ⚙️ Columns: Location, Time, Weather, Road Conditions, Severity (Target)
-
+---------------------------------------------------------------------------------------------------
 🔍 EDA Objectives
 Find the top states/cities with the most accidents
 
@@ -26,7 +26,7 @@ Severity breakdowns by condition
 Impact of weather and visibility
 
 Visual storytelling with heatmaps & line plots
-
+----------------------------------------------------------------------------------------------------------------------
 🤖 Machine Learning (Planned)
 Target: Severity (1: Least, 4: Most Severe)
 
@@ -34,11 +34,22 @@ Models: Logistic Regression, Random Forest, XGBoost
 
 Steps: Preprocessing → Feature Selection → Training → Evaluation
 
+----------------------------------------------------------------------------------------------------------------------
+
+
 📦 Folder Structure
-Copy
-Edit
 us-accidents-analysis/
 ├── us_accidents_eda.ipynb
 ├── US_Accidents_Dataset.csv
 ├── README.md
-└── requirements.txt
+
+----------------------------------------------------------------------------------------------------------------------
+
+🚧 Note from Author
+This notebook is a basic and initial version of the analysis. Many more insights, visualizations, and predictive modeling components will be added in future updates.
+Stay tuned as I enhance this project step-by-step!
+
+
+
+
+
